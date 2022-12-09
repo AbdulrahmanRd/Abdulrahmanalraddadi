@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Abdulrahman alraddadi
-- 👀 I’m interested in java Programing and SQL
+- 👋 Hi, I’m @Abdulrahman Alraddadi
+- 👀 I’m interested in Java Programming and SQL 
 - 📫 E-mail : doomyf2@gmail.com 
 
 <!---
